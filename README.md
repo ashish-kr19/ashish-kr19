@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ashish Kumar</h1>
+<h2>Hi, I'm Ashish Kumar</h2>
 <p> I'm a final year student at VIT Bhopal University, India. Currently, I'm engrossed in Full Stack Web Development.</p>
 
 <div align="left">
