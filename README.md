@@ -16,7 +16,7 @@
 
 ###
 
-<h3> Tech Stack </h3>
+<h3> Technical Stack </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
 </div>
 
-<h3>Stats</h3>
+<h3>GitHub Statistics</h3>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ashish-kr19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="145" alt="stats graph"  />
