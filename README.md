@@ -3,7 +3,7 @@
 
 ###
 
-<h3> Connect with me</h3>
+<h3> Contact</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ashish-kumar-11151420a/" target="_blank" rel="noopener noreferrer">
