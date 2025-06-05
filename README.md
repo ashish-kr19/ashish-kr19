@@ -1,5 +1,5 @@
-<h2>Hi, I'm Ashish Kumar</h2>
-<p> I'm a final year computer science student at VIT Bhopal University in India. Currently, I'm engrossed in Full Stack Web Development.</p>
+<h2>Hello there!</h2>
+<p> I'm Ashish Kumar, a final year computer science student at VIT Bhopal University in India. Currently, I'm engrossed in Full Stack Web Development.</p>
 
 ###
 
